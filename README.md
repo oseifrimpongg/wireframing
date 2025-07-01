@@ -35,3 +35,26 @@ Shows where key content (text, images, videos) will be displayed on the page.
 Represents interactive elements like forms, buttons, sliders, and dropdowns, and how they behave.
 
 **Example:** Including a mock-up of a login form ensures that input fields and error messages are logically positioned.
+
+## Types of Wireframes
+
+### Low-Fidelity Wireframes
+These are simple, rough sketches that focus on layout and structure without detailed styling or interactivity. They're usually black, white, gray and may be hand-drawn or created with basic tools and shapes such as circles, squares and rectangles.
+
+**Use Case:** Early in the design process to brainstorm ideas and align on layout before adding design details.
+
+### High-Fidelity Wireframes
+These are polished and detailed mockups that closely resemble the final product. They include actual content, typography, color schemes, icons, and sometimes interactivity.
+
+**Use Case:** Later in the design phase, to test usability, present to stakeholders, or prepare for development handoff.
+
+## Wireframe Type Used in This Project
+
+The design used in this [project](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f) represents a **High-Fidelity Wireframe**. It includes:
+
+- Real images and branding
+- Actual UI elements (buttons, cards, inputs)
+- Color, typography, and layout fidelity
+- Simulated functionality (like navigation and sign-in)
+
+This level of detail is typical when preparing for usability testing or developer implementation.
